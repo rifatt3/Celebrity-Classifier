@@ -4,11 +4,12 @@ Re-coded project to learn data science skills.
 
 In this data science and machine learning project, we classify sports personalities. We restrict classification to only 5 people,
 
-Maria Sharapova
-Serena Williams
-Virat Kohli
-Roger Federer
-Lionel Messi
+  1)Maria Sharapova
+  2)Serena Williams
+  3)Virat Kohli
+  4)Roger Federer
+  5)Lionel Messi
+  
 Here is the folder structure,
 
 UI : This contains ui website code
