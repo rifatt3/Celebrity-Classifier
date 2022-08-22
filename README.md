@@ -2,7 +2,7 @@
 
 Re-coded project to learn data science skills.
 
-In this data science and machine learning project, we classify sports personalities. We restrict classification to only 5 people,
+In this data science and machine learning project, sports personalities pictures are classified. Classification restricted to only 5 people,
 
 		1)Maria Sharapova 
 
